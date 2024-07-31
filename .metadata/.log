@@ -1,0 +1,285 @@
+!SESSION 2024-07-30 16:18:49.886 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product /home/heshan/Documents/headFirstDesignPattern/headFirstDesignPattern
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product /home/heshan/Documents/headFirstDesignPattern/headFirstDesignPattern -data /home/heshan/Documents/headFirstDesignPattern/headFirstDesignPattern
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 16:18:55.643
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 16:18:59.096
+!MESSAGE Logback config file: /home/heshan/Documents/headFirstDesignPattern/headFirstDesignPattern/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.equinox.security 1 0 2024-07-30 16:20:42.730
+!MESSAGE New secure storage master password was generated (Linux libsecret integration module). 
+!SESSION 2024-07-31 18:10:09.772 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 18:10:31.067
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 18:10:40.881
+!MESSAGE Logback config file: /home/heshan/Documents/headFirstDesignPattern/headFirstDesignPattern/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-07-31 18:33:11.418
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2024-07-31 18:33:11.418
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.418
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.418
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for bcprov:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Apache Commons Logging" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Java implementation of Git" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Java implementation of Git - optional Http support using Apache httpclient" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: Utilities :: Ajax(JSON)" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Apache Mina SSHD :: OSGi" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for bcpkix:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for com.google.gson:2.10.1" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Git integration for Eclipse - Source Code" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Java implementation of Git - GPG support using BouncyCastle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for com.sun.jna:5.14.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: Servlet Handling" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "bcpg" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for org.apache.commons.logging:1.2.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Java implementation of Git - Command Line Interface" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for org.apache.httpcomponents.httpcore:4.4.16" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for slf4j.api:1.7.36" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Apache Apache HttpCore OSGi bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Source Bundle for bcpg:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.419
+!MESSAGE "Apache Mina SSHD :: SFTP" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "bcpkix" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Source Bundle for org.apache.sshd.sftp:2.12.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Apache Commons Compress" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Jetty :: Servlet Handling" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "args4j" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "bcutil" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Jetty :: Utilities :: Ajax(JSON)" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Gson" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Java implementation of Git - ssh support using JCraft jsch" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "bcprov" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Git integration for Eclipse - Gitflow support" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Source Bundle for org.apache.sshd.osgi:2.12.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.427
+!MESSAGE "Source Bundle for org.apache.commons.commons-codec:1.16.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Source Bundle for org.apache.commons.commons-compress:1.26.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Source Bundle for jakarta.servlet-api:4.0.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Java implementation of Git - optional LFS support" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Java implementation of Git - Source Code" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Java implementation of Git - ssh support using Apache MINA sshd" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Jakarta Servlet" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Source Bundle for bcutil:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.428
+!MESSAGE "Source Bundle for org.kohsuke.args4j:2.33.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.429
+!MESSAGE "Source Bundle for slf4j.simple:1.7.36" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.429
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.429
+!MESSAGE "slf4j-simple" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.429
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-07-31 18:33:11.474
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2024-07-31 18:33:11.474
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.474
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.474
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.474
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.474
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for bcprov:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Apache Commons Logging" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Java implementation of Git" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Java implementation of Git - optional Http support using Apache httpclient" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: Utilities :: Ajax(JSON)" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Apache Mina SSHD :: OSGi" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for bcpkix:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for com.google.gson:2.10.1" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Git integration for Eclipse - Source Code" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Java implementation of Git - GPG support using BouncyCastle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for com.sun.jna:5.14.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: Servlet Handling" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "bcpg" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for org.apache.commons.logging:1.2.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Java implementation of Git - Command Line Interface" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for org.apache.httpcomponents.httpcore:4.4.16" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for slf4j.api:1.7.36" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Apache Apache HttpCore OSGi bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for bcpg:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Apache Mina SSHD :: SFTP" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "bcpkix" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Source Bundle for org.apache.sshd.sftp:2.12.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Apache Commons Compress" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.475
+!MESSAGE "Jetty :: Servlet Handling" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "args4j" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "bcutil" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Jetty :: Utilities :: Ajax(JSON)" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Gson" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Java implementation of Git - ssh support using JCraft jsch" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "bcprov" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Git integration for Eclipse - Gitflow support" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for org.apache.sshd.osgi:2.12.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for org.apache.commons.commons-codec:1.16.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for org.apache.commons.commons-compress:1.26.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for jakarta.servlet-api:4.0.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Java implementation of Git - optional LFS support" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Java implementation of Git - Source Code" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Java implementation of Git - ssh support using Apache MINA sshd" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Jakarta Servlet" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for bcutil:1.77.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for org.kohsuke.args4j:2.33.0" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Source Bundle for slf4j.simple:1.7.36" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "slf4j-simple" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:33:11.476
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-07-31 18:36:25.767
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2024-07-31 18:36:25.767
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:36:25.767
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:36:25.767
+!MESSAGE "Git integration for Eclipse - Source Code" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-07-31 18:36:25.781
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2024-07-31 18:36:25.781
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:36:25.781
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2024-07-31 18:36:25.781
+!MESSAGE "Git integration for Eclipse - Source Code" will be ignored because a newer version is already installed. 
