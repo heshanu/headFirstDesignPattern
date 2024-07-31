@@ -1,33 +1,27 @@
 package observerPattern;
 
-public class ForecastDisplay implements Subject,Observer {
+public class ForecastDisplay implements Observer,DisplayElement {
 
+	private float temperature;
+	private float humidity;
+	private Subject weatherData;
 	
-
-	@Override
-	public void registerObserver(Observer o) {
-		// TODO Auto-generated method stub
-		
+	public  ForecastDisplay(Subject weatherData) {
+		this.weatherData=weatherData;
+		weatherData.registerObserver(this);
 	}
-
-	@Override
-	public void removeObserver(Observer o) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void notifyObserver(Observer o) {
-		// TODO Auto-generated method stub
-		
-	}
-
+	
 	@Override
 	public void update(float temp, float humdity, float pressure) {
-		// TODO Auto-generated method stub
-		
+		this.weatherData=weatherData;
+		weatherData.registerObserver(this);
 	}
 
-	
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+		System.out.println("Forecast conditions:"
+		+temperature+"F degree and "+humidity+"% humidity");
+	}
 
 }

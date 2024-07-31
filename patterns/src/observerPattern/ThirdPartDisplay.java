@@ -1,31 +1,27 @@
 package observerPattern;
 
-public class ThirdPartDisplay implements Subject,Observer {
+public class ThirdPartDisplay implements Observer,DisplayElement {
 
+	private float temperature;
+	private float humidity;
+	private Subject weatherData;
 	
-
-	@Override
-	public void registerObserver(Observer o) {
-		// TODO Auto-generated method stub
-		
+	public ThirdPartDisplay(Subject weatherData) {
+		this.weatherData=weatherData;
+		weatherData.registerObserver(this);
 	}
 
 	@Override
-	public void removeObserver(Observer o) {
-		// TODO Auto-generated method stub
-		
+	public void display() {
+		System.out.println("This is ThirdParty; conditions:"+temperature+"F degree and "+humidity+"% humidity");
 	}
-
-	@Override
-	public void notifyObserver(Observer o) {
-		// TODO Auto-generated method stub
-		
-	}
-
+	
 	@Override
 	public void update(float temp, float humdity, float pressure) {
-		// TODO Auto-generated method stub
-		
+		this.temperature=temp;
+		this.humidity=humdity;
+	
 	}
+
 
 }
