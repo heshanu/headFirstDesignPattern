@@ -17,11 +17,13 @@ public class StatisticsDisplay implements Observer,DisplayElement {
 		this.temperature=temp;
 		this.humidity=humdity;
 		this.pressure=pressure;
+		display();
 	}
 
 	@Override
 	public void display() {
-		System.out.println("Current conditions:"+temperature+"F degree and "+humidity+"% humidity");
+		System.out.println("Statistics conditions:"+temperature+"F degree and "
+	+humidity+"% humidity"+" Pressure "+pressure);
 		
 	}
 
